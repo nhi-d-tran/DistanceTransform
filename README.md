@@ -1,4 +1,4 @@
-# DistanceTransform
+# Connected Component
 I. Input: a binary image
 
 II. Outputs (argv[]):
