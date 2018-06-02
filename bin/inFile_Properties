@@ -1,0 +1,72 @@
+Label: 1
+Number of pixels: 20
+(Min row, Min col): (1, 8)
+(Max row, Max col): (10, 9)
+
+------------------------------
+Label: 2
+Number of pixels: 5
+(Min row, Min col): (1, 25)
+(Max row, Max col): (5, 25)
+
+------------------------------
+Label: 3
+Number of pixels: 40
+(Min row, Min col): (2, 1)
+(Max row, Max col): (15, 5)
+
+------------------------------
+Label: 4
+Number of pixels: 47
+(Min row, Min col): (2, 13)
+(Max row, Max col): (15, 17)
+
+------------------------------
+Label: 5
+Number of pixels: 8
+(Min row, Min col): (3, 11)
+(Max row, Max col): (10, 11)
+
+------------------------------
+Label: 6
+Number of pixels: 18
+(Min row, Min col): (3, 20)
+(Max row, Max col): (10, 22)
+
+------------------------------
+Label: 7
+Number of pixels: 22
+(Min row, Min col): (8, 19)
+(Max row, Max col): (19, 25)
+
+------------------------------
+Label: 8
+Number of pixels: 43
+(Min row, Min col): (12, 2)
+(Max row, Max col): (20, 9)
+
+------------------------------
+Label: 9
+Number of pixels: 21
+(Min row, Min col): (15, 11)
+(Max row, Max col): (20, 17)
+
+------------------------------
+Label: 10
+Number of pixels: 1
+(Min row, Min col): (15, 13)
+(Max row, Max col): (15, 13)
+
+------------------------------
+Label: 11
+Number of pixels: 1
+(Min row, Min col): (15, 20)
+(Max row, Max col): (15, 20)
+
+------------------------------
+Label: 12
+Number of pixels: 8
+(Min row, Min col): (18, 20)
+(Max row, Max col): (20, 22)
+
+------------------------------
