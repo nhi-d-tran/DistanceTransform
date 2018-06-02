@@ -42,19 +42,27 @@ III. Data structure:
 *******************************
 III. Algorithms
 *******************************
-step 0: read the image header
-dynamically allocate zerpFramedAry with extra 2 rows and 2 cols
+step 0: 
+- read the image header
+- dynamically allocate zerpFramedAry with extra 2 rows and 2 cols
+
 step 1: 
 - zeroFrame the zerpFramedAry.
+
 Step 2: 
 - loadImage
-step 3: f
-- irstPassDistance (…) 
+
+step 3: 
+- firstPassDistance (…) 
+
 step 4: 
 - prettyPrintof the result of Pass-1 to outFile2 with caption indicating the result of pass-1
+
 step 5: 
 - secondPassDistance (…)
+
 Step 6: 
 - prettyPrintDistace of the result of Pass-2 
+
 Step 7: 
 - close all files.
